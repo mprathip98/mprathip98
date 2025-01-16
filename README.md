@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mprathip98
-- 👀 I’m interested in computer science with a touch of AI
 - 🌱 I’m currently in high school
 - 😄 Pronouns: he/his/him
 
