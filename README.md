@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mprathip98
 - 🌱 I’m currently in high school
-- 😄 Pronouns: he/his/him
+
 
 <!---
 mprathip98/mprathip98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
